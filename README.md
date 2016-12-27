@@ -13,6 +13,14 @@ a lightweight application firewall
 
 - No need to modify the original code, no invasion
 
+Load in maven:
+```xml
+    <dependency>
+        <groupId>com.cybermkd</groupId>
+        <artifactId>ICEWall</artifactId>
+        <version>1.0.0.0</version>
+    </dependency>
+```
 
 How to use it (configured on web.xml):
 
