@@ -33,7 +33,7 @@ How to use it (configured on web.xml):
             <param-value>/test/a.html;</param-value>
         </init-param>
         <init-param>
-            <param-name>xxs</param-name>
+            <param-name>xss</param-name>
             <param-value>true</param-value>
         </init-param>
         <init-param>
